@@ -1,13 +1,4 @@
-######################################################
-# Project: <Video game>
-# UIN: <652622525>
-# repl.it URL: <https://replit.com/@CS111-Fall2021/Project-2-YousefHabeeb1#main.py>
 
-# For this project, I received help from the following members of CS111.
-# Imran Khan, netID 654046372: help with start and end screen 
-# Waqar Ahmed, netID 662844795: help with dictionary and some collisions
- 
-######################################################
 import turtle
 import random
 
